@@ -21,6 +21,8 @@ Lirex: A Package for Identification of Long Inverted Repeats in Genomes
 
 4. License
 
-    The tool is an open-source software that follows the specifications of the Creative Commons license (CC BY-NC-SA 3.0). Distribution for commerial use is not permitted. For any equiry, please send an email to me at wangy@sidsse.ac.cn.
+    The tool is an open-source software that follows the specifications of the Creative Commons license (CC BY-NC-SA 3.0). Distribution for commerial use is not permitted. For any equiry, please send an email to me at wangy@idsse.ac.cn.
+    If you use Lirex in your research, please cite:
+    Yong Wang, Jiao-Mei Huang. Lirex: A Package for Identification of Long Inverted Repeats in Genomes. 2017, GPB(15):141-146.
 
       
